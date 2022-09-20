@@ -1,2 +1,5 @@
 # python_learning
-for bazinga's python learning
+
+For bazinga's python learning
+
+Curently is the code for python basics and python scrape on coursera
